@@ -1,12 +1,11 @@
-hugasdlkfjawfkadsjfa
-sdfjklasjdfkajskldjfa
+---
+linters:
+    flake8:
+    eslint:
+        config: './eslint.config'
+    csslint:
 
-sd
-fjas
-djf;kajskdfajsdf
-ajds
-fk;ajs
-dfka
-kdjf
-asdkfja
-sk
+files:
+    ignore:
+        - 'src/generated/*'
+        - 'webroot/bower_components/*'
