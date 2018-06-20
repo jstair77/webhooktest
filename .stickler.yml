@@ -1,0 +1,9 @@
+---
+linters:
+    yamllint:
+        config: ./yamllint.conf
+
+files:
+    ignore:
+        - 'src/generated/*'
+        - 'webroot/bower_components/*'
