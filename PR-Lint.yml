@@ -1,7 +1,0 @@
-exclude:
-  - index.js
-  - config.js
-
-linters:
-  - yaml
-  - json
