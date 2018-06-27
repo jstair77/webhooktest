@@ -6,4 +6,4 @@ linters:
 
 # 1: only check the files changed in the most recent commit
 # 2: check all files changed from the base to the head
-mode: 1
+mode: 3
